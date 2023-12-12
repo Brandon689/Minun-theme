@@ -16,5 +16,5 @@
 	<a href="/cart">Cart</a>
 	<a href="/checkout">Checkout</a>
 	</header>
-	<div id="content" class="container mx-auto">
+	<div id="content" class="">
 		<main>
